@@ -1,0 +1,148 @@
+2021-05-16 18:21:35,705 Start_End.py[line:9] INFO ============setUp============
+2021-05-16 18:21:35,708 desired_caps.py[line:41] INFO start app....
+2021-05-16 18:23:05,914 Start_End.py[line:9] INFO ============setUp============
+2021-05-16 18:23:05,916 desired_caps.py[line:41] INFO start app....
+2021-05-16 18:23:18,838 test_login.py[line:18] INFO ============test_login_error============
+2021-05-16 18:23:18,838 common_fun.py[line:17] INFO ============check_cancelBtn===============
+2021-05-16 18:23:19,572 common_fun.py[line:24] INFO click cancelBtn
+2021-05-16 18:23:19,630 common_fun.py[line:28] INFO ==========check_skipBtn===========
+2021-05-16 18:23:20,378 common_fun.py[line:34] INFO click skipBtn
+2021-05-16 18:23:20,448 loginView.py[line:24] INFO ===============login===============
+2021-05-16 18:23:20,448 loginView.py[line:25] INFO start input username:666
+2021-05-16 18:23:21,938 loginView.py[line:28] INFO start input password:222
+2021-05-16 18:23:22,510 loginView.py[line:31] INFO start click loginBtn.
+2021-05-16 18:23:23,062 loginView.py[line:33] INFO start login finished 
+2021-05-16 18:23:23,062 Start_End.py[line:12] INFO ============tearDown============
+2021-05-16 18:23:28,242 Start_End.py[line:9] INFO ============setUp============
+2021-05-16 18:23:28,245 desired_caps.py[line:41] INFO start app....
+2021-05-16 18:23:39,707 test_login.py[line:14] INFO ============test_login_zxw2017============
+2021-05-16 18:23:39,707 common_fun.py[line:17] INFO ============check_cancelBtn===============
+2021-05-16 18:23:40,369 common_fun.py[line:24] INFO click cancelBtn
+2021-05-16 18:23:40,420 common_fun.py[line:28] INFO ==========check_skipBtn===========
+2021-05-16 18:23:41,161 common_fun.py[line:34] INFO click skipBtn
+2021-05-16 18:23:41,205 loginView.py[line:24] INFO ===============login===============
+2021-05-16 18:23:41,205 loginView.py[line:25] INFO start input username:自学网2017
+2021-05-16 18:23:43,620 loginView.py[line:28] INFO start input password:zxw2017
+2021-05-16 18:23:44,918 loginView.py[line:31] INFO start click loginBtn.
+2021-05-16 18:23:45,474 loginView.py[line:33] INFO start login finished 
+2021-05-16 18:23:45,474 Start_End.py[line:12] INFO ============tearDown============
+2021-05-16 18:23:50,629 Start_End.py[line:9] INFO ============setUp============
+2021-05-16 18:23:50,633 desired_caps.py[line:41] INFO start app....
+2021-05-16 18:24:03,506 test_login.py[line:10] INFO ============test_login_zxw2018============
+2021-05-16 18:24:03,506 common_fun.py[line:17] INFO ============check_cancelBtn===============
+2021-05-16 18:24:04,113 common_fun.py[line:24] INFO click cancelBtn
+2021-05-16 18:24:04,160 common_fun.py[line:28] INFO ==========check_skipBtn===========
+2021-05-16 18:24:04,870 common_fun.py[line:34] INFO click skipBtn
+2021-05-16 18:24:04,933 loginView.py[line:24] INFO ===============login===============
+2021-05-16 18:24:04,933 loginView.py[line:25] INFO start input username:自学网2018
+2021-05-16 18:24:06,383 loginView.py[line:28] INFO start input password:zxw2018
+2021-05-16 18:24:06,977 loginView.py[line:31] INFO start click loginBtn.
+2021-05-16 18:24:07,554 loginView.py[line:33] INFO start login finished 
+2021-05-16 18:24:07,555 Start_End.py[line:12] INFO ============tearDown============
+2021-05-16 18:32:29,835 Start_End.py[line:9] INFO ============setUp============
+2021-05-16 18:32:29,837 desired_caps.py[line:41] INFO start app....
+2021-05-16 18:32:41,869 test_login.py[line:18] INFO ============test_login_error============
+2021-05-16 18:32:41,869 common_fun.py[line:17] INFO ============check_cancelBtn===============
+2021-05-16 18:32:42,530 common_fun.py[line:24] INFO click cancelBtn
+2021-05-16 18:32:42,580 common_fun.py[line:28] INFO ==========check_skipBtn===========
+2021-05-16 18:32:43,279 common_fun.py[line:34] INFO click skipBtn
+2021-05-16 18:32:43,346 login_view.py[line:24] INFO ===============login===============
+2021-05-16 18:32:43,347 login_view.py[line:25] INFO start input username:666
+2021-05-16 18:32:44,687 login_view.py[line:28] INFO start input password:222
+2021-05-16 18:32:45,344 login_view.py[line:31] INFO start click loginBtn.
+2021-05-16 18:32:45,967 login_view.py[line:33] INFO start login finished 
+2021-05-16 18:32:45,967 Start_End.py[line:12] INFO ============tearDown============
+2021-05-16 18:32:51,183 Start_End.py[line:9] INFO ============setUp============
+2021-05-16 18:32:51,186 desired_caps.py[line:41] INFO start app....
+2021-05-16 18:33:02,669 test_login.py[line:14] INFO ============test_login_zxw2017============
+2021-05-16 18:33:02,670 common_fun.py[line:17] INFO ============check_cancelBtn===============
+2021-05-16 18:33:03,291 common_fun.py[line:24] INFO click cancelBtn
+2021-05-16 18:33:03,358 common_fun.py[line:28] INFO ==========check_skipBtn===========
+2021-05-16 18:33:04,067 common_fun.py[line:34] INFO click skipBtn
+2021-05-16 18:33:04,130 login_view.py[line:24] INFO ===============login===============
+2021-05-16 18:33:04,131 login_view.py[line:25] INFO start input username:自学网2017
+2021-05-16 18:33:05,471 login_view.py[line:28] INFO start input password:zxw2017
+2021-05-16 18:33:06,574 login_view.py[line:31] INFO start click loginBtn.
+2021-05-16 18:33:07,154 login_view.py[line:33] INFO start login finished 
+2021-05-16 18:33:07,154 Start_End.py[line:12] INFO ============tearDown============
+2021-05-16 18:33:12,326 Start_End.py[line:9] INFO ============setUp============
+2021-05-16 18:33:12,329 desired_caps.py[line:41] INFO start app....
+2021-05-16 18:33:24,127 test_login.py[line:10] INFO ============test_login_zxw2018============
+2021-05-16 18:33:24,127 common_fun.py[line:17] INFO ============check_cancelBtn===============
+2021-05-16 18:33:24,764 common_fun.py[line:24] INFO click cancelBtn
+2021-05-16 18:33:24,820 common_fun.py[line:28] INFO ==========check_skipBtn===========
+2021-05-16 18:33:25,539 common_fun.py[line:34] INFO click skipBtn
+2021-05-16 18:33:25,629 login_view.py[line:24] INFO ===============login===============
+2021-05-16 18:33:25,629 login_view.py[line:25] INFO start input username:自学网2018
+2021-05-16 18:33:26,955 login_view.py[line:28] INFO start input password:zxw2018
+2021-05-16 18:33:28,053 login_view.py[line:31] INFO start click loginBtn.
+2021-05-16 18:33:30,968 login_view.py[line:33] INFO start login finished 
+2021-05-16 18:33:30,969 Start_End.py[line:12] INFO ============tearDown============
+2021-05-20 17:09:15,597 Start_End.py[line:9] INFO ============setUp============
+2021-05-20 17:09:15,600 desired_caps.py[line:41] INFO start app....
+2021-05-20 17:09:15,845 Start_End.py[line:9] INFO ============setUp============
+2021-05-20 17:09:15,847 desired_caps.py[line:41] INFO start app....
+2021-05-20 17:09:15,865 Start_End.py[line:9] INFO ============setUp============
+2021-05-20 17:09:15,867 desired_caps.py[line:41] INFO start app....
+2021-05-20 17:10:00,879 Start_End.py[line:9] INFO ============setUp============
+2021-05-20 17:10:00,881 desired_caps.py[line:41] INFO start app....
+2021-05-20 17:10:00,900 Start_End.py[line:9] INFO ============setUp============
+2021-05-20 17:10:00,902 desired_caps.py[line:41] INFO start app....
+2021-05-20 17:10:00,941 Start_End.py[line:9] INFO ============setUp============
+2021-05-20 17:10:00,943 desired_caps.py[line:41] INFO start app....
+2021-05-20 17:13:43,507 Start_End.py[line:9] INFO ============setUp============
+2021-05-20 17:13:43,512 Start_End.py[line:9] INFO ============setUp============
+2021-05-20 17:13:43,513 Start_End.py[line:9] INFO ============setUp============
+2021-05-20 17:15:04,423 Start_End.py[line:9] INFO ============setUp============
+2021-05-20 17:15:04,425 desired_caps.py[line:41] INFO start app....
+2021-05-20 17:15:04,464 Start_End.py[line:9] INFO ============setUp============
+2021-05-20 17:15:04,467 desired_caps.py[line:41] INFO start app....
+2021-05-20 17:15:04,486 Start_End.py[line:9] INFO ============setUp============
+2021-05-20 17:15:04,490 desired_caps.py[line:41] INFO start app....
+2021-05-20 17:15:43,962 Start_End.py[line:9] INFO ============setUp============
+2021-05-20 17:15:43,964 desired_caps.py[line:41] INFO start app....
+2021-05-20 17:16:15,579 Start_End.py[line:9] INFO ============setUp============
+2021-05-20 17:16:15,582 desired_caps.py[line:41] INFO start app....
+2021-05-20 17:16:31,766 Start_End.py[line:9] INFO ============setUp============
+2021-05-20 17:16:31,770 desired_caps.py[line:41] INFO start app....
+2021-05-20 17:17:27,590 Start_End.py[line:9] INFO ============setUp============
+2021-05-20 17:17:27,592 desired_caps.py[line:41] INFO start app....
+2021-05-20 17:17:40,392 test_login.py[line:18] INFO ============test_login_error============
+2021-05-20 17:17:40,392 common_fun.py[line:17] INFO ============check_cancelBtn===============
+2021-05-20 17:17:41,214 common_fun.py[line:24] INFO click cancelBtn
+2021-05-20 17:17:41,280 common_fun.py[line:28] INFO ==========check_skipBtn===========
+2021-05-20 17:17:42,013 common_fun.py[line:34] INFO click skipBtn
+2021-05-20 17:17:42,091 login_view.py[line:25] INFO ===============login===============
+2021-05-20 17:17:42,092 login_view.py[line:26] INFO start input username:666
+2021-05-20 17:17:44,057 login_view.py[line:29] INFO start input password:222
+2021-05-20 17:17:45,179 login_view.py[line:32] INFO start click loginBtn.
+2021-05-20 17:17:46,380 login_view.py[line:34] INFO start login finished 
+2021-05-20 17:17:46,380 Start_End.py[line:12] INFO ============tearDown============
+2021-05-20 17:17:51,592 Start_End.py[line:9] INFO ============setUp============
+2021-05-20 17:17:51,596 desired_caps.py[line:41] INFO start app....
+2021-05-20 17:18:03,246 test_login.py[line:14] INFO ============test_login_zxw2017============
+2021-05-20 17:18:03,247 common_fun.py[line:17] INFO ============check_cancelBtn===============
+2021-05-20 17:18:03,912 common_fun.py[line:24] INFO click cancelBtn
+2021-05-20 17:18:03,971 common_fun.py[line:28] INFO ==========check_skipBtn===========
+2021-05-20 17:18:04,665 common_fun.py[line:34] INFO click skipBtn
+2021-05-20 17:18:04,725 login_view.py[line:25] INFO ===============login===============
+2021-05-20 17:18:04,725 login_view.py[line:26] INFO start input username:自学网2017
+2021-05-20 17:18:06,773 login_view.py[line:29] INFO start input password:zxw2017
+2021-05-20 17:18:07,880 login_view.py[line:32] INFO start click loginBtn.
+2021-05-20 17:18:08,845 login_view.py[line:34] INFO start login finished 
+2021-05-20 17:18:08,845 Start_End.py[line:12] INFO ============tearDown============
+2021-05-20 17:18:13,866 Start_End.py[line:9] INFO ============setUp============
+2021-05-20 17:18:13,870 desired_caps.py[line:41] INFO start app....
+2021-05-20 17:18:25,290 test_login.py[line:10] INFO ============test_login_zxw2018============
+2021-05-20 17:18:25,290 common_fun.py[line:17] INFO ============check_cancelBtn===============
+2021-05-20 17:18:26,052 common_fun.py[line:24] INFO click cancelBtn
+2021-05-20 17:18:26,108 common_fun.py[line:28] INFO ==========check_skipBtn===========
+2021-05-20 17:18:26,802 common_fun.py[line:34] INFO click skipBtn
+2021-05-20 17:18:26,873 login_view.py[line:25] INFO ===============login===============
+2021-05-20 17:18:26,873 login_view.py[line:26] INFO start input username:自学网2018
+2021-05-20 17:18:28,215 login_view.py[line:29] INFO start input password:zxw2018
+2021-05-20 17:18:29,319 login_view.py[line:32] INFO start click loginBtn.
+2021-05-20 17:18:30,517 login_view.py[line:34] INFO start login finished 
+2021-05-20 17:18:30,518 Start_End.py[line:12] INFO ============tearDown============
+2021-05-20 17:46:30,520 Start_End.py[line:9] INFO ============setUp============
+2021-05-20 17:46:30,524 desired_caps.py[line:41] INFO start app....
