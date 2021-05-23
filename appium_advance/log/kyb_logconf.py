@@ -10,7 +10,7 @@ data=yaml.load(file,Loader=yaml.FullLoader)
 
 # logging.basicConfig(level=logging.INFO,filename='runlog.log',format='%(asctime)s %(filename)s[line:%(lineno)d] %(levelname)s %(message)s')
 #定义一个常量
-CON_LOG='log.conf'
+CON_LOG='logs.conf'
 logging.config.fileConfig(CON_LOG)
 #定义一个采集器
 logging=logging.getLogger()

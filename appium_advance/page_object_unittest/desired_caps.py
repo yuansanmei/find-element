@@ -8,7 +8,7 @@ import logging.config
 
 # logging.basicConfig(level=logging.INFO,filename='runlog.log',format='%(asctime)s %(filename)s[line:%(lineno)d] %(levelname)s %(message)s')
 '''定义一个常量，启用log/log.conf的配置文件信息'''
-CON_LOG='../log/log.conf'
+CON_LOG='../log/logs.conf'
 logging.config.fileConfig(CON_LOG)
 '''定义一个采集器'''
 logging=logging.getLogger()
